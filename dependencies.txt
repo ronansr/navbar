@@ -1,0 +1,9 @@
+dependencias para navegacao por guias
+
+npm install @react-navigation/bottom-tabs
+
+navega��o por gavetas
+
+npm install @react-navigation/drawer
+
+@react-navigation/compat
